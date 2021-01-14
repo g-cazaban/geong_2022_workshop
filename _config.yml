@@ -4,6 +4,5 @@ search_enabled: true
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 logo: "/assets/images/logo_carte.jpg"

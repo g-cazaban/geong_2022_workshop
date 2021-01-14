@@ -1,5 +1,5 @@
 ---
-title: Child of Test
+title: A propos
 parent: Introduction
 has_children: true
 nav_order: 1
