@@ -1,30 +1,18 @@
-## Introduction
+---
+layout: default
+title: Introduction
+nav_order: 1
+permalink: /
+---
 
+## Présentation de la carte
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+La carte est disponible [à cette adresse](https://littoral-solidarite.gogocarto.fr/annuaire#/carte/@50.96,1.81,10z?cat=all)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Elle recense les lieux de solidarités par thèmes et jours d'ouverture pour les exhilé.e.s
 
-### Markdown
+![Aperçu de la carte](assets/images/map_preview.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tutoriel d'ajout de données et de mise à jour 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cette page recense la documentation pour ajouter des données à la carte et mettre à jour des informations
