@@ -1,0 +1,46 @@
+$body-font-family: 'Lato', sans-serif;
+$root-font-size: 14px !default;
+
+$color-primary: #0072bc;
+$color-primary-hcr: #0072bc;
+$color-main-text: #515151;
+$color-dark-grey: #333333;
+$color-success: #66bb6a;
+$color-error: #f44336;
+$color-warning: #ff9966;
+$color-white: #ffffff;
+
+$body-text-color: $color-main-text;
+$link-color: $color-primary;
+
+$content-width: 960px;
+$header-height: 100px;
+$nav-width: 400px;
+$logo-width: 100px ! default;
+$logo-height: 100px ! default;
+
+.text-note {
+    color: $color-warning !important;
+}
+
+.text-blue-hcr {
+     color:  $color-primary-hcr !important;
+   }
+
+.note {
+    padding: $sp-3;
+    margin-bottom: $sp-3;
+    overflow: auto;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+}
+
+.note-text {
+    margin-top: -12px
+}
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+

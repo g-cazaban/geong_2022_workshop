@@ -1,6 +1,7 @@
 title: "Doc GoGoCarto"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+color_scheme: calais
 
 # Build settings
 markdown: kramdown
