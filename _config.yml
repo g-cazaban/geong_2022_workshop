@@ -8,7 +8,6 @@ markdown: kramdown
 logo: "/assets/images/logo_carte.jpg"
 
 permalink: pretty
-exclude: ["README.md"]
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
