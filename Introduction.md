@@ -10,4 +10,4 @@ La carte est disponible [à cette adresse](https://littoral-solidarite.gogocarto
 
 Elle recense les lieux de solidarités par thèmes et jours d'ouverture pour les exhilé.e.s
 
-![Aperçu de la carte](_includes/map_preview.jpg)
+![Aperçu de la carte](assets/images/map_preview.jpg)
