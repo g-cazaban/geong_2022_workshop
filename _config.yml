@@ -6,7 +6,7 @@ search_enabled: true
 markdown: kramdown
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo_carte.jpg"
+logo: "/assets/images/logo_carte.png"
 
 
 # Regression tests
