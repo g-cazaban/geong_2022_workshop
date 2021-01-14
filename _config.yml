@@ -5,6 +5,7 @@ search_enabled: true
 # Build settings
 markdown: kramdown
 
+# Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo_carte.jpg"
 
 
@@ -13,20 +14,6 @@ logo: "/assets/images/logo_carte.jpg"
 # To include them, comment-out the relevant line above.
 # Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
 # include: ["docs/tests/"]
-
-# Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
-
-# Enable or disable heading anchors
-heading_anchors: true
-
-# Footer content
-# appears at the bottom of every page's main content
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
 
 plugins:
   - jekyll-seo-tag
