@@ -1,4 +1,4 @@
-title: "GoGoCarto"
+title: "GeONG - Workshop"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 color_scheme: calais
@@ -7,7 +7,7 @@ color_scheme: calais
 markdown: kramdown
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo_carte.png"
+logo: "/assets/images/GEONG_logo_2022_FR.png"
 
 
 # Regression tests
