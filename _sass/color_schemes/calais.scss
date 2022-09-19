@@ -1,46 +1,109 @@
+$body-font-family: "Open Sans", sans-serif;
+$body-text-color: #262626;
 
-$body-font-family: 'Lato', sans-serif;
-$root-font-size: 14px !default;
+$color-white:  #ffffff ;
+$color-black: #262626;
+$color-blue: #41b4b4;
+$color-blue-dark: #318787;
 
-$color-primary: #0072bc;
-$color-primary-hcr: #0072bc;
-$color-main-text: #515151;
-$color-dark-grey: #333333;
-$color-success: #66bb6a;
-$color-error: #f44336;
-$color-warning: #ff9966;
-$color-white: #ffffff;
+$color-blue-light: #51A7A7;
+$color-blue-table-border: #B8E3E3;
+$color-orange: #f8a063;
 
-$body-text-color: $color-main-text;
-$link-color: $color-primary;
-
-$content-width: 960px;
+$content-width: 870px;
+$nav-width: 300px;
 $header-height: 100px;
-$nav-width: 350px;
-$logo-width: 70px;
-$logo-height: 70px;
+$logo-width: 100px ! default;
+$logo-height: 100px ! default;
 
-.text-note {
-    color: $color-warning !important;
+$link-color: #f8a063;
+
+
+a {
+    color: $link-color;
+    text-decoration: none;
+  }
+
+.text-black {
+    color: $color-black !important;
 }
 
-.text-blue-hcr {
-     color:  $color-primary-hcr !important;
-   }
-
-.note {
-    padding: $sp-3;
-    margin-bottom: $sp-3;
-    overflow: auto;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
+.text-blue {
+    color: $color-blue !important;
 }
 
-.note-text {
-    margin-top: -12px
+.text-white{
+  color: $color-white !important;
 }
 
-img[src*='#center'] {
-    display: block;
-    margin: auto;
+.text-blue-light {
+  color: #51A7A7 !important;
+}
+.text-blue-pale {
+  color: #B8E3E3 !important;
+}
+.bg-color-blue-pale {
+  background-color: #B8E3E3 !important;
+}
+
+.text-blue-dark {
+  color: #318787 !important;
+}
+.bg-color-blue-dark {
+  background-color: #318787 !important;
+}
+
+.text-orange {
+  color: $color-orange !important;
+}
+
+.bg-color-blue-light {
+  background-color: #51A7A7 !important;
+}
+
+.bg-color-blue {
+  background-color: $color-blue !important;
+}
+
+.bg-color-orange {
+  background-color: $color-orange !important;
+}
+
+.text-josefin{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+.main-content ul.bp-blue{
+  list-style: none;
+  li::before {
+    content: "•";
+    color: #41b4b4;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em
+  }
+  ul {list-style: none;}
+  ul ::before {
+    color: #41b4b4;
+  }
+  ul ul {list-style: none;}
+  ul ul ::before {
+    color:#41b4b4;
+  }
+}
+
+.main-content ol.nl-blue{
+  li::before {
+    color: #41b4b4;
+  }
+  ol ::before {
+    color: #41b4b4;
+  }
+  ol ol ::before {
+    color:#41b4b4;
+  }
 }
