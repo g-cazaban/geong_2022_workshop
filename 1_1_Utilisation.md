@@ -1,11 +1,9 @@
 ---
-title: Utilisation de la carte
-parent: Tutoriel
+title: QGIS Graphical Modeler
+parent: Introduction
 nav_order: 1
 ---
 
-# Navigation sur la carte 
+## QGIS Graphical Modeler
 
 ![Test GIF](assets/images/daft.gif)
-
-# Connexion à son compte administrateur
