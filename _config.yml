@@ -1,4 +1,4 @@
-title: " "
+title: "2022 GeONG - QGIS Workshop"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 color_scheme: calais
@@ -8,6 +8,14 @@ markdown: kramdown
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/GEONG_logo_2022_FR.png"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
 
 
 # Regression tests
