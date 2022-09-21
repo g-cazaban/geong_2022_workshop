@@ -15,7 +15,7 @@ callouts:
     color: red
   note:
     title: Note
-    color: purple
+    color: orange
 
 
 # Regression tests
