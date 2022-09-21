@@ -7,7 +7,7 @@ color_scheme: calais
 markdown: kramdown
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/GEONG_logo_2022_FR.png"
+logo: "/assets/images/GEONG_logo_2022_EN.png"
 
 callouts:
   warning:
