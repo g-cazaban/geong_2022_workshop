@@ -15,8 +15,7 @@ callouts:
     color: red
   note:
     title: Note
-    color: orange
-
+    color: purple
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
