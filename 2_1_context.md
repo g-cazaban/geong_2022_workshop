@@ -1,10 +1,10 @@
 ---
-title: Exercise 1
-parent: Exercises
+title: Context
+parent: Data & Treatment
 nav_order: 1
 ---
 
-## Exercise 1
+## Context
 
 {: .note }
 A paragraph
