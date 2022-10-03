@@ -1,9 +1,9 @@
 ---
-title: Exercises
+title: Data & Treatment
 has_children: true
 nav_order: 2
 ---
 
-## Exercises
+## Data & Treatment
 
 Aim
