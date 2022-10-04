@@ -20,4 +20,4 @@ The last paragraph
 
 Careful
 
-
+![Deforestation since 2016](assets/images/forest_gif.gif)
