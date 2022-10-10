@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Source
 
-The data used for Fire detection is coming from [Nasa - FIRMS](https://pages.github.com/](https://firms.modaps.eosdis.nasa.gov/)
+The data used for Fire detection is coming from [NASA-FIRMS](https://firms.modaps.eosdis.nasa.gov/)
 
 ![FIRMS logo](assets/images/nasa_firms.png)
 
