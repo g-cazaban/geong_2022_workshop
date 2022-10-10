@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Source
 
-The data used for Fire detection is coming from ***Nasa - FIRMS***
+The data used for Fire detection is coming from [***Nasa - FIRMS***](https://pages.github.com/](https://firms.modaps.eosdis.nasa.gov/)
 
 ![FIRMS logo](assets/images/nasa_firms.png)
 
@@ -22,6 +22,6 @@ Satellites take a ‘snapshot’ of events as they pass over earth. Each hotspot
 
 ## Data Extraction for the Workshop
 
-Data can be accessed live with WFS or WMS but only for the last 7 days, for older data, a request needs to be done focused on a specific area and date. The data can be then submitted as Shapefile, KML or text file.
+Data can be accessed live with WFS or WMS but only for the last 7 days, for older data, [a request needs to be done](https://firms.modaps.eosdis.nasa.gov/download/) focused on a specific area and date. The data can be then submitted as Shapefile, KML or text file.
 
 ***For this workshop***, we requested an extraction of historical data for **Brazil, between January, 1st of 2021, and September, 30th of 2022.**
