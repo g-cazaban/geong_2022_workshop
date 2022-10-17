@@ -1,5 +1,5 @@
 ---
-title: Step 3
+title: Step 3: Outputs
 parent: Our first model
 nav_order: 4
 ---
@@ -8,7 +8,7 @@ nav_order: 4
 
 Second part of a model is the workflow, it will includes **algorithms** for data process, and finally one or more **outputs**. Here we will focus on the outputs.
 
-### Add an output
+### **Add an output**
 
 To create an output, we need to say which process will give the model outputs, in our case we only have one algorithm.
 
