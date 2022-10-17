@@ -1,5 +1,5 @@
 ---
-title: Step 4: Run model
+title: Step 4
 parent: Our first model
 nav_order: 5
 ---
