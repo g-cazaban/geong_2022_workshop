@@ -4,7 +4,7 @@ parent: Our first model
 nav_order: 2
 ---
 
-##Step 1: Model inputs
+## Step 1: Model inputs
 
 First part of the model will be the inputs.
 The following elements are found in the Inputs panel on the left side of the modeler window:
