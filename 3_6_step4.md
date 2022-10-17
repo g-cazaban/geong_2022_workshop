@@ -1,10 +1,10 @@
 ---
-title: Step 4
+title: Step 4 - Run the model
 parent: Our first model
 nav_order: 5
 ---
 
-## Step 4: Run model
+## Step 4: Run the model
 
 
 
