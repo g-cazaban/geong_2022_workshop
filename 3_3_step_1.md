@@ -1,5 +1,5 @@
 ---
-title: Step 1: Model input
+title: Step 1 - Model input
 parent: Our first model
 nav_order: 2
 ---
