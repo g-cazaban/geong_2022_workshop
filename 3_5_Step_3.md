@@ -1,5 +1,5 @@
 ---
-title: Step 3: Outputs
+title: Step 3 - Outputs
 parent: Our first model
 nav_order: 4
 ---
