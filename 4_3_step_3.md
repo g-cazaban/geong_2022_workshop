@@ -1,6 +1,6 @@
 ---
 title: Step 3 - Export as centroid for porportional symbols
-parent: Manage date of data as input
+parent: Calculate density of high fire
 nav_order: 3
 ---
 
