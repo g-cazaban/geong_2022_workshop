@@ -13,6 +13,3 @@ This amount of fire is linked to the deforestation and agricultural practices li
 ![Deforestation since 2016](assets/images/forest_gif.gif)
 
 Fires are therefore a central issue in the Brazilian presidential election that is being held right now.
-
-{: .note }
-A paragraph
